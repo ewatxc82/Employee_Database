@@ -35,11 +35,11 @@ titles.csv:
 
 -ERD Visualization 
 
-link: 
+link: https://github.com/ewatxc82/Employee_Database/blob/main/Screen%20Shot%202021-01-11%20at%209.41.59%20PM.png
 
 -Data Engineering
 
-Table Schema for the .csv files link:
+Table Schema for the .csv files link: https://github.com/ewatxc82/Employee_Database/blob/main/Employee_Database_Schema.sql
 
 -Data Analysis
 
@@ -68,4 +68,4 @@ Queries below were requested for Data Analysis
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
-link:
+link: https://github.com/ewatxc82/Employee_Database/blob/main/Employee_Database_Queries.sql
